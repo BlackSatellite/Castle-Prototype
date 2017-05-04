@@ -1,3 +1,3 @@
 # Castle-Prototype
 
-Stable version
+Stable version of 2d platformer prototype.
